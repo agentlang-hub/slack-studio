@@ -2,5 +2,5 @@
     "name": "slack-browser",
     "version": "0.0.1",
     "type": "module",
-    "description": "Browser-compatible Slack resolver for agentlang",
+    "description": "Browser-compatible Slack resolver for agentlang"
 }
